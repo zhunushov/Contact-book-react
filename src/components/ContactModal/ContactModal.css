@@ -1,0 +1,40 @@
+.wrap{
+    position: relative;
+    top: -42rem;
+    margin:auto;
+    width: 43rem;
+    height: 18rem;
+    background-image: url(https://atlantgranit.ru/image/cache/catalog/mramor/Black%20Marquina/marquina_600600-264x264.jpg);
+    background-size: cover;
+    justify-content: center;
+}
+.wrap input{
+    justify-content: center;
+    width: 38rem;
+    height: 1.5rem;
+    margin: .3rem 2.2rem;
+    border: .2rem solid rgb(10, 61, 10);
+    text-align: center;
+}
+.wrap h1{
+    color: rgb(53, 199, 243);
+    font-size: 3.4rem;
+    margin: 0;
+    text-align: center;
+    cursor: pointer;
+    font-family:inherit;
+}
+.wrap .btned{
+   width: 38.6rem;
+   height: 2.2rem;
+   margin: .4rem 2.2rem;
+   border: .2rem solid rgb(10, 61, 10);
+   background-color:rgb(9, 107, 146);
+}
+.wrap .btncl{
+   width: 38.6rem;
+   height: 2.2rem;
+   margin: .4rem 2.2rem;
+   border: .2rem solid rgb(10, 61, 10);
+   background-color:rgb(192, 243, 7);
+}
